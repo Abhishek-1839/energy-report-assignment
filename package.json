@@ -1,0 +1,18 @@
+{
+  "name": "energy-report",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Daily energy report per meter from gateway telemetry",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "start": "tsx src/cli.ts",
+    "test": "tsx --test \"test/**/*.test.ts\"",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.5.0"
+  }
+}

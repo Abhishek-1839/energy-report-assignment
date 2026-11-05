@@ -1,0 +1,5 @@
+Stadtwerke sub-metering statement (excerpt)
+Site: cold store, 3 feeders (M1, M2, M3)
+Period: 24.10.2026 00:00 - 25.10.2026 00:00 (local time)
+Active energy import, all feeders: 1.705,6 kWh
+Metering tolerance: +/- 0,1 %
